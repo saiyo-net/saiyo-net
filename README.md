@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.postimg.cc/DzDxd3Dt/Design-sem-nome-19.png"  />
+  <img height="150" src="https://i.postimg.cc/8kdbsvp8/Design-sem-nome-18-removebg-preview.png"  />
 </div>
 
 ###
